@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Taufik Mulyawan</h1>
 <hr>
 <h4 align="center">But you can call me Taufik. I'm a Software Engineer Student.</h4>
-<p align="center">I am very interested in Web Development, Mobile Apps Development, and also Cloud Computing. Currently building a startup called <b>Afaslearn.</b></p>
+<p align="center">I am very interested in Web Development, Mobile Apps Development, and also Cloud Computing. Currently as Back-End Developer at <b>Appsensi.</b> </p>
 <hr>
 <br/>
 
