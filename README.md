@@ -7,7 +7,7 @@
 
 ## 📞 Contacts
 
-<a href="https://www.linkedin.com/in/taufik-mulyawan-fullstack-developer/"><img src="https://img.shields.io/badge/-TaufikMulyawan-blue?style=flat-square&logo=Linkedin&logoColor=white/"></a>
+<a href="https://www.linkedin.com/in/taufik-mulyawan-904a6b246/"><img src="https://img.shields.io/badge/-TaufikMulyawan-blue?style=flat-square&logo=Linkedin&logoColor=white/"></a>
 <a href="https://www.instagram.com/taufik_mul/"><img src="https://img.shields.io/badge/-@taufik_mul-333333?style=flat-square&logo=instagram&logoColor=white/">
 <a href="mailto: taufikmulyawan@gmail.com"><img src="https://img.shields.io/badge/-taufikmulyawan@gmail.com-f6f6f6?style=flat-square&logo=Gmail&logoColor=white/"></a>
 <br/>
