@@ -1,7 +1,13 @@
 <h1 align="center">Hello! My name is Taufik Mulyawan</h1>
 <hr>
-<h4 align="center">But you can call me Taufik. I'm a Software Engineer Student.</h4>
-<p align="center">I am very interested in Web Development, Mobile Apps Development, and also Cloud Computing. Currently as Back-End Developer at <b>Appsensi.</b> </p>
+<h4>But you can call me Taufik. I'm a Software Engineer Student.</h4>
+<p>I am very interested in Web Development, Mobile Apps Development, and also Cloud Computing.<br><br>
+<b> <p>These are some of my experiences:</p> </b>
+<p>1) Bangkit Instructor as Cloud Computing Path (Bangkit by Google, Tokopedia, Gojek, & Traveloka) </p>
+<p>2) Back-End Developer Instructor (Vocasia) </p>
+<p>3) Back-End Developer (Appsensi) </p>
+
+<p>
 <hr>
 <br/>
 
